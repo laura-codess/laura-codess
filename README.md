@@ -6,13 +6,17 @@ welcome to my corner of the internet :computer:
 
 ```javascript
 const laura = {
-  pronouns: "she" | "her",
-  code: [javascript, typescript, python, java, html, css],
-  tools: [react, next.js, tailwind, mongodb, node],
-  school: [new york university],
+  pronouns: ["she", "her"],
+  code: ["javascript", "typescript", "python", "java", "html", "css"],
+  tools: ["react", "next.js", "tailwind", "mongodb", "node"],
+  school: ["new york university"],
   clubs: {
-            president: "math society",
-            marketing: "women in computing",
+    "math society": {
+      role: "president"
+    },
+    "women in computing": {
+      role: "marketing"
+    }
   }
 }
 
