@@ -2,8 +2,6 @@
 
  :love_letter: [laurachen.me](https://laurachen.me)
 
-welcome to my corner of the internet :computer:
-
 ```javascript
 const laura = {
   pronouns: ["she", "her"],
