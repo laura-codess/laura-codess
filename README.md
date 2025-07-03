@@ -4,20 +4,9 @@
 
 ```javascript
 const laura = {
-  pronouns: ["she", "her"],
-  code: ["javascript", "typescript", "python", "java", "html", "css"],
-  tools: ["react", "next.js", "tailwind", "mongodb", "node"],
-  school: ["new york university"],
-  clubs: {
-    "math society": {
-      role: "president"
-    },
-    "women in computing": {
-      role: "marketing"
-    }
-  }
+  likes: ["to", "code"],
+  curr: ["amazon"],
 }
-
 ```
 
 
