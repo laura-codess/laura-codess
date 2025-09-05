@@ -5,7 +5,7 @@
 ```javascript
 const laura = {
   likes: ["to", "code"],
-  curr: ["amazon"],
+  prev: ["aws"],
 }
 ```
 
