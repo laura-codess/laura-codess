@@ -5,8 +5,8 @@
 ```javascript
 const laura = {
   likes: ["to", "code"],
-  curr: ["notion", "figma"],
-  prev: ["aws"],
+  curr: ["openai"],
+  prev: ["aws", "notion", "figma"],
 }
 ```
 
